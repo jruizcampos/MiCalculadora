@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="tam_fuente">40sp</dimen>
+    <dimen name="alto_it">70dp</dimen>
+    <dimen name="ancho_boton">63dp</dimen>
+    <dimen name="alto_boton">55dp</dimen>
+</resources>
